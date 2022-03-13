@@ -1,7 +1,7 @@
 # pole_chudes
 Это игра, в которой пользователю предлагается угадать слово.
 
-**Название: «Поле чудес»**
+# Название: «Поле чудес»
 
 Описание, правила и механизмы игры: Это игра, в которой пользователю предлагается угадать слово.
 Осуществляется ввод по одной букве алфавита, и если такая буква в слове присутствует, то она открывается на импровизированном «экране»,
@@ -28,7 +28,7 @@
 
 This is a game in which the player is going to guess the word.
 
-**Heading: "The field of wonders"**
+# Heading: "The field of wonders"
 
 Description and rules of the game: In this game the player is asked to guess the word.
 
